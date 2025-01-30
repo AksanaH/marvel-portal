@@ -1,2 +1,1 @@
-# marvel-portal
-Marvel information portal
+marvel-portal
